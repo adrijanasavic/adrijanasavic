@@ -29,11 +29,12 @@
     <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="Git" height="42px" style="max-width: 100%;">
     <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="Firebase" height="42px" style="max-width: 100%;">
 </p>
-</br></br></br></br></br></br>
+</br></br></br></br>
 
 <div align="center">
   <div style="display: flex;">
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrijanasavic&show_icons=true&locale=en&layout=compact" alt="adrijanasavic" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrijanasavic&show_icons=true&locale=en&layout=compact" alt="adrijanasavic" />
+    
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrijanasavic&show_icons=true&locale=en" alt="adrijanasavic" />
   </div>
 </div>
