@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/adrijana-savi%C4%87-50249176/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adrijanasavic" height="30" width="40" /></a>
 </p>
-</br>
+</br></br>
 <p align="center" dir="auto">
   <h3 align="left">🔨 Languages and Tools:</h3>
     <img align="left" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/html5.svg" alt="HTML" height="42px" style="max-width: 100%;">
