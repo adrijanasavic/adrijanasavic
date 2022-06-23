@@ -2,7 +2,7 @@
 </h1>
 <h3 align="center">An enthusiastic Web and Android developer with good attention to detail and strong will to learn new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrijanasavic&label=Profile%20views&color=129e00&style=plastic" alt="adrijanasavic" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrijanasavic&label=Profile%20views&color=129e00&style=plastic" alt="adrijanasavic" /> </p> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/media/053531508b8be8f7002815911fa86cdc.gif">
 
 - 👨‍💻 You can also check out my portfolio at <a href="https://adrijana-savic-portfolio.netlify.app/">portfolio </a>
